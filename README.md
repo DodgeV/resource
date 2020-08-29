@@ -1,9 +1,24 @@
+# 日常
+* [少女诗人](http://poem.msxiaobing.com/)
+* [渣男：说话的艺术](https://lovelive.tools/)
+* [污段子](http://www.vasiw.com/wu.php)
+* [犯见志](http://www.ifanjian.net/)
+* [小鸡词典](https://jikipedia.com/)
+# 美食
+* [美食天下](https://www.meishichina.com/)
+* [食品营养成分与科学食疗方法](https://www.foodwake.com)
+# 化学
+* [化学模型](https://molview.org)
+# 医学
+* [医学微视](https://www.mvyxws.com/)
+* [默沙东诊疗手册](https://www.msdmanuals.cn/)
+# 软件合集
 * ArcGIS1软件合集链接：https://pan.baidu.com/s/1R54vHBQKLYoe1q6SgqjnEA 密码：ngem
 * 电脑直接安装链接：https://pan.baidu.com/s/1LIsbhiKutoTax2ed2FDj5w 密码：fsnu
 * Creo软件合集链接：https://pan.baidu.com/s/19tSlG1cpwdJxydPVpmZOMA 密码：dnqx
 * 屏幕录像软件合集链接：https://pan.baidu.com/s/1JQW9tArAizA-kbH011lxsg 密码：9e6j
 * LR软件合集链接：https://pan.baidu.com/s/1OM3qnA3bzFiTJCueUA3eeA 密码：yggr
-* UG软件合集链接：https://pan.baidu.com/s/1CPclN1AKf_luZuY-_Kdwqg 密码：3awc
+* UG软件合集链接：https://pan.baidu.com/s/1CPclN1AKf_luZuY-Kdwqg 密码：3awc
 * Rhino软件合集链接：https://pan.baidu.com/s/1A5uatTgJQf0min18WZNfng 密码：kbcs
 * lumion软件合集链接：https://pan.baidu.com/s/1nB04ua7mkRQ2vF9If4GvSg 密码：h171
 * Illustrator软件合集链接：https://pan.baidu.com/s/1VDM3G37FYEQbAUuWD6w9iQ 密码：xbvk
