@@ -142,6 +142,50 @@
 * 链接：https://pan.baidu.com/s/1wCNWOG-xaLb1yAvsIdK5Og 密码：3ayb
 * 链接：https://pan.baidu.com/s/1y0twe5sUBBCtFsJcDG18PQ 密码：lx0n
 * 链接：https://pan.baidu.com/s/1tZdSrIIYH4bnZrMBOBqGHg 密码：0su2
-
-
+# 工具箱
++ [MikuTools](https://tools.miku.ac/)
++ [PickFrom](https://zh.pickfrom.net/)
++ [精准云](https://jingzhunyun.com/)
++ [UZER.ME](https://uzer.me/)
++ [简捷工具 ](https://shulijp.com/)
++ [爱资料](https://www.toolnb.com/)
++ [万能](https://wanneng.run/cn/#seesome)
++ [123](http://www.gjw123.com/)
++ [兔二工具](https://www.tool2.cn/)
++ [网易见外工作台](https://jianwai.youdao.com/)
++ [果汁实验室](http://guozhivip.com/lab/)
++ [兔二工具](https://www.tool22.com/)
++ [一个工具箱](http://www.atoolbox.net/)
++ [在线工具](https://tool.lu/)
++ [蛙蛙工具](http://www.iamwawa.cn/)
++ [UU在线工具](https://uutool.cn/)
+# 在线思维导图
++ [PO在线思维图](https://www.processon.com/)
++ [百度思维脑图](https://naotu.baidu.com/)
++ [在线创建思维导图](https://www.mindmeister.com/zh)
++ [Gliffy在线制图](https://www.gliffy.com/)
++ [幕布精选 - 幕布](https://mubu.com/explore)
++ [【GitMind官网】](https://gitmind.cn/)
++ [Excalidraw | 手绘流程图](https://excalidraw.com/)
++ [ZhiMap-在线思维导图](https://zhimap.com/)
+# 文档工具
++ [PDF转Word](https://app.xunjiepdf.com/)
++ [LightPDF](https://lightpdf.com/zh/)
++ [iLovePDF](https://www.ilovepdf.com/)
++ [轻闪PDF - 免费在线编辑、转换PDF文件](https://lightpdf.cn/)
++ [云展网-免费上传文档/画册转换为在线3D翻页电子书,生成链接二维码](http://www.yunzhan365.com/)
++ [Smallpdf](https://smallpdf.com/)
++ [PDF转Word转换器](https://www.alltoall.net/)
++ [PDF转Word|Word转PDF|PDF转换器 - 超级PDF](https://xpdf.net/)
++ [PDF派 ](https://www.pdfpai.com/)
++ [在线 PDF 转换器-编辑，旋转和压缩 PDF 文件](https://www.pdf2go.com/zh)
++ [CleverPDF - 27个功能强大的免费在线PDF转换器和工具](https://www.cleverpdf.com/cn)
++ [文件转换器](https://cn.office-converter.com/)
++ [Zamzar](https://www.zamzar.com/)
++ [Convertio](https://convertio.co/zh/)
++ [Convert](https://www.aconvert.com/)
++ [CloudConvert](https://cloudconvert.com/)
++ [文件编码检测](https://abctool.gitlab.io/encoding-detector/index.zh-cn.html?d400&_lang)
++ [Abc 文件编码检测工具](https://abctool.gitlab.io/encoding-detector/index.zh-cn.html)
++ [SeaTable - 新一代在线协同表格和信息管理系统](https://seatable.cn/)
 
