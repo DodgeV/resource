@@ -9,6 +9,10 @@
 * [知妖](https://www.cbaigui.com/)
 * [FakeUpdate](https://fakeupdate.net/)
 + [十佳测评--排出最好的产品](https://www.10besty.com/)
+# 小语种
++ [声同小语种论坛 - 声同此声，心同此心！ - Powered by phpwind](http://www.somdom.com/)
++ [小语种学习网](http://xyz.tingroom.com/)
++ [Radio Code全世界电台大全](http://radio.opentutorial.info/)
 # 美食
 * [美食天下](https://www.meishichina.com/)
 * [食品营养成分与科学食疗方法](https://www.foodwake.com)
