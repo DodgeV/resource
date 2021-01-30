@@ -1,9 +1,14 @@
 # 日常
 * [少女诗人](http://poem.msxiaobing.com/)
+* [九歌---藏头诗](http://jiuge.thunlp.org/)
+* [王斌对联](https://ai.binwang.me/couplet/)
 * [渣男：说话的艺术](https://lovelive.tools/)
 * [污段子](http://www.vasiw.com/wu.php)
 * [犯见志](http://www.ifanjian.net/)
 * [小鸡词典](https://jikipedia.com/)
+* [知妖](https://www.cbaigui.com/)
+* [FakeUpdate](https://fakeupdate.net/)
++ [十佳测评--排出最好的产品](https://www.10besty.com/)
 # 美食
 * [美食天下](https://www.meishichina.com/)
 * [食品营养成分与科学食疗方法](https://www.foodwake.com)
