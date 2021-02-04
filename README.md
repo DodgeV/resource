@@ -1,16 +1,16 @@
 # 签到
-+ IT之家：https://www.itspxx.com/
-+ 小木虫：http://muchong.com/
-+ 经管之家：https://bbs.pinggu.org/
-+ MT论坛：https://bbs.binmt.cc/forum.php
-+ 数学中国论坛：http://www.madio.net/portal.php
-+ 🐟C论坛：https://fishc.com.cn/
-+ 吾爱破解：https://www.52pojie.cn/
-+ 学破解：https://www.xuepojie.com/
-+ 中国HUC：http://www.cnhonkerarmy.com/portal.php
-+ 资源统筹局：https://gkdworld.xyz/plugin.php?id=k_misign:sign
-+ MX：https://moxing445.vip/sign.php
-+ Car：https://avcarbvr834.vip/home.php?mod=spacecp&ac=usergroup
++ [IT之家](https://www.itspxx.com/)
++ [小木虫](http://muchong.com/)
++ [经管之家](https://bbs.pinggu.org/)
++ [MT论坛](https://bbs.binmt.cc/forum.php)
++ [数学中国论坛](http://www.madio.net/portal.php)
++ [🐟C论坛](https://fishc.com.cn/)
++ [吾爱破解](https://www.52pojie.cn/)
++ [学破解](https://www.xuepojie.com/)
++ [中国HUC](http://www.cnhonkerarmy.com/portal.php)
++ [资源统筹局](https://gkdworld.xyz/plugin.php?id=k_misign:sign)
++ [MX](https://moxing445.vip/sign.php)
++ [Car](https://avcarbvr834.vip/home.php?mod=spacecp&ac=usergroup)
 
 # 常用
 + [enlink](https://client.v.ujs.edu.cn/client/#/login)
