@@ -19,7 +19,7 @@
 + [爱企查-工商信息查询_企业信息查询](https://aiqicha.baidu.com/)
 + [腾讯哈勃分析系统](https://habo.qq.com/)
 + [检测是否被盗过号](https://haveibeenpwned.com/)
-+ [Firefox检测账户是否安全]https://monitor.firefox.com/)
++ [Firefox检测账户是否安全](https://monitor.firefox.com/)
 + [腾讯问卷](https://wj.qq.com/)
 + [聚宽](https://www.joinquant.com/view/user/floor?type=mainFloor)
 + [微信公众号](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=907919079)
@@ -282,7 +282,7 @@
 + [默沙东诊疗手册](https://www.msdmanuals.cn/)
 
 # AutoCAD
-+ [CAD2007中文版免费下载-AutoCAD2007中文破解版下载[附入门教程]-华军软件园](https://www.onlinedown.net/soft/612130.htm)
++ [CAD2007中文版免费下载-AutoCAD2007中文破解版下载(附入门教程)-华军软件园](https://www.onlinedown.net/soft/612130.htm)
 + [CAD自学网 - CAD视频教程,CAD软件下载,免费的设计软件教程自学网](http://www.cadzxw.com/)
 
 # 日常闲扯
