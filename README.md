@@ -35,7 +35,7 @@
 + [十佳测评--排出最好的产品](https://www.10besty.com/)
 ### mac应用市场
 + [精品Mac应用分享推荐 - Awesome Mac](http://wangchujiang.com/awesome-mac/index.zh.html)
-+ [应用软件_麦氪派](https://www.waitsun.com/topics/os）
++ [应用软件_麦氪派](https://www.waitsun.com/topics/os)
 + [macwk-client](https://www.macwk.com/)
 ### plugins & Extension
 + [用户脚本](https://greasyfork.org/zh-CN/scripts)
