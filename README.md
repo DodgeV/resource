@@ -11,6 +11,7 @@
 + [资源统筹局](https://gkdworld.xyz/plugin.php?id=k_misign:sign)
 + [MX](https://moxing445.vip/sign.php)
 + [Car](https://avcarbvr834.vip/home.php?mod=spacecp&ac=usergroup)
++ [贝克街推理学院](http://www.tuilixy.net/)
 
 # 常用
 + [enlink](https://client.v.ujs.edu.cn/client/#/login)
