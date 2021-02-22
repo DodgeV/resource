@@ -24,7 +24,6 @@
 + [腾讯问卷](https://wj.qq.com/)
 + [聚宽](https://www.joinquant.com/view/user/floor?type=mainFloor)
 + [微信公众号](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=907919079)
-+ [百度网盘](https://pan.baidu.com/disk/home?_at_=1607558432415#/all?vmode=list&path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F2019%E8%AF%81%E5%88%B8%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E8%B5%84%E6%96%99)
 + [GitHub](https://github.com/login)
 + [126邮箱](https://mail.126.com/)
 + [实验楼](https://www.shiyanlou.com/courses/?fee=member&tag=Python&sort=default&preview=false&category=%E5%85%A8%E9%83%A8)
@@ -148,10 +147,6 @@
 + [微词云 · 简单强大的文字云艺术生成器](https://www.weiciyun.com/)
 + [艺术字体转换器](http://www.akuziti.com/)
 + [网页转换助手](http://www.html22.com/doc/)
-+ [注册 - PanDLLive](https://pandl.live/invite/3b3770b8128772a731793a02b579815ef2d6d20a)
-+ [Title百度云免登录下载](http://www.xgp123.cn/bd/)
-+ [PanDownload 复刻版 - 直链下载](http://www.fxrcxjq.com/bd/)
-+ [天翼云盘快速下载](http://www.xgp123.cn/tz/)
 
 # 视频工具
 + [Online converter视频转换器](https://www.online-convert.com/)
@@ -363,6 +358,14 @@
 + 全网最全BT 磁力搜索引擎索引-持续更新中 - Funletu：https://funletu.com/bt/
 + 聚BT - 聚合最优质的BT、磁力资源：https://jubtnet.github.io/jubt/
 + 聚BT - 聚合最优质的BT、磁力资源：https://jubt.cf/cn/index.html
+
+# 网盘和工具
++ [百度网盘](https://pan.baidu.com/disk/home)
++ [注册 - PanDLLive](https://pandl.live/invite/3b3770b8128772a731793a02b579815ef2d6d20a)
++ [Title百度云免登录下载](http://www.xgp123.cn/bd/)
++ [PanDownload 复刻版 - 直链下载](http://www.fxrcxjq.com/bd/)
++ [天翼云盘快速下载](http://www.xgp123.cn/tz/)
++ [雷鸟下载 百度网盘 网盘下载](http://www.thunderbird.bar/)
 
 # 网盘资源
 + 百度网盘资源：http://www.friok.com/
