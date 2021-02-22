@@ -297,6 +297,7 @@
 
 # 有趣的网站
 + [知妖](https://www.cbaigui.com/)
++ [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
