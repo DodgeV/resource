@@ -289,6 +289,7 @@
 + [污段子](http://www.vasiw.com/wu.php)
 + [犯见志](http://www.ifanjian.net/)
 + [小鸡词典](https://jikipedia.com/)
++ [一篇文字](https://www.dumogu.top/)
 
 # 有趣的网站
 + [知妖](https://www.cbaigui.com/)
