@@ -17,6 +17,7 @@
 + [enlink](https://client.v.ujs.edu.cn/client/#/login)
 + [大创训练](http://cxcy.ujs.edu.cn/index.aspx)
 + [团委-江苏大学青年](http://jdqn.ujs.edu.cn/)
++ [智办事 - 工作就是智办事](https://www.iai.work/?c=zh246)
 + [爱企查-工商信息查询_企业信息查询](https://aiqicha.baidu.com/)
 + [腾讯哈勃分析系统](https://habo.qq.com/)
 + [检测是否被盗过号](https://haveibeenpwned.com/)
