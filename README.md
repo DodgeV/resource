@@ -34,6 +34,7 @@
 # 技术宅的自白
 + [FakeUpdate](https://fakeupdate.net/)
 + [十佳测评--排出最好的产品](https://www.10besty.com/)
++ [Versus | 万物皆可对比](https://versus.com/cn)
 ### mac应用市场
 + [精品Mac应用分享推荐 - Awesome Mac](http://wangchujiang.com/awesome-mac/index.zh.html)
 + [应用软件_麦氪派](https://www.waitsun.com/topics/os)
