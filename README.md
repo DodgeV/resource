@@ -282,6 +282,7 @@
 # AutoCAD
 + [CAD2007中文版免费下载-AutoCAD2007中文破解版下载(附入门教程)-华军软件园](https://www.onlinedown.net/soft/612130.htm)
 + [CAD自学网 - CAD视频教程,CAD软件下载,免费的设计软件教程自学网](http://www.cadzxw.com/)
++ [【终极版】CAD百科全书，无价之宝！（再版） ](https://mp.weixin.qq.com/s/_EF1LaPwZNxbi0k3zMSmYQ)
 
 # 日常闲扯
 + [少女诗人](http://poem.msxiaobing.com/)
