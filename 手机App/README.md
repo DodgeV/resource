@@ -1,5 +1,6 @@
 ## 应用市场
-+ [聚应用](https://www.juapp8.com/)
++ [聚应用2.0 - 汇集全网精品应用的搜索引擎](https://www.juapp8.com/)
++ [PandaHelper - Get Free Mods & Cheats & Hacked Games For Android](https://www.pandahelp.vip/androidApp)
 
 ## 手机看片
 + [简易影视_简易影视官网_简易影视app下载](http://www.jyysxz.xyz/wap/)
