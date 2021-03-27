@@ -4,6 +4,7 @@
 ## 手机看片
 + [简易影视_简易影视官网_简易影视app下载](http://www.jyysxz.xyz/wap/)
 + [简易影视会员版_关注微信公众号：阿枫科技.apk - 蓝奏云](http://www.lanzous.com/i7vtyof)
++ [酷享.apk - 蓝奏云](http://www.lanzous.com/i6fjo4d)
 
 ## 扫描工具
 + 全能扫描王
