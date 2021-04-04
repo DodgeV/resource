@@ -293,11 +293,13 @@
 + [犯见志](http://www.ifanjian.net/)
 + [小鸡词典](https://jikipedia.com/)
 + [一篇文字](https://www.dumogu.top/)
++ [好好说话--流行语搜索](https://lab.magiconch.com/nbnhhsh/)
 
 # 有趣的网站
 + [知妖](https://www.cbaigui.com/)
 + [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
 + [START-腾讯云游戏](https://start.qq.com/)
++ [小鸡大作战](https://hury.io/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
