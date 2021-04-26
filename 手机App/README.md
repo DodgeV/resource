@@ -15,4 +15,5 @@
 + 必备音频资源下载站：[趣音网-提供海量有声小说打包下载及免费试听,有声书的天堂](http://qvyin.com/)
 
 ## 看书
-+ 堪比厚墨：[源仓库&APP下载](http://yck.mumuceo.com/)
++ 堪比厚墨：[源仓库&APP下载](http://yck.mumuceo.com/)&[开源代码](https://github.com/gedoor/legado)
++ 好用的书院推荐：[XIU2](https://github.com/XIU2/Yuedu)
