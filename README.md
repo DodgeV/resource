@@ -294,6 +294,7 @@
 + [小鸡词典](https://jikipedia.com/)
 + [一篇文字](https://www.dumogu.top/)
 + [好好说话--流行语搜索](https://lab.magiconch.com/nbnhhsh/)
++ [粉头君的搞笑日常](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3ODI4ODY4NA==&action=getalbum&album_id=1715485424623665158&scene=173&from_msgid=2247500375&from_itemidx=2&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=6302019a&lang=zh_CN&ascene=1&session_us=gh_56b34e2e0cd4&fontgear=2)
 
 # 有趣的网站
 + [知妖](https://www.cbaigui.com/)
