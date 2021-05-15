@@ -303,6 +303,10 @@
 + [START-腾讯云游戏](https://start.qq.com/)
 + [小鸡大作战](https://hury.io/)
 + [全球摄像头](https://www.skylinewebcams.com/)
++ [CXK打篮球](https://cxk.ssrr.one/)
++ [模拟核弹的威力](https://nuclearsecrecy.com/nukemap/)
++ [地球的时间线](http://timelineofearth.com/)
++ [奥利奥](http://ljl.li/oreooo/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
