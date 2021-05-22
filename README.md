@@ -317,6 +317,7 @@
 + [模拟核弹的威力](https://nuclearsecrecy.com/nukemap/)
 + [地球的时间线](http://timelineofearth.com/)
 + [奥利奥](http://ljl.li/oreooo/)
++ [Waifu Labs-制作自己的二次元老婆](https://waifulabs.com/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
