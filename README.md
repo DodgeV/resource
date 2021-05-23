@@ -289,6 +289,7 @@
 # 医学
 + [医学微视](https://www.mvyxws.com/)
 + [默沙东诊疗手册](https://www.msdmanuals.cn/)
++ [人卫慕课丨中国医学教育慕课联盟官方平台](http://www.pmphmooc.com/#/home)
 
 # AutoCAD
 + [CAD2007中文版免费下载-AutoCAD2007中文破解版下载(附入门教程)-华军软件园](https://www.onlinedown.net/soft/612130.htm)
