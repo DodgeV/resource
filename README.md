@@ -222,6 +222,7 @@
 + [西边云英语句库](http://www.xibianyun.com/)
 + [英语语法_英语语法网](http://www.yygrammar.com/Article/)
 + [在线词典|近义词词典|诗词典故|翻译词典_词林在线词典](https://www.cilin.org/)
++ [每日英语（En8848官方App）- 英语学习_原版英语学习网](https://www.en8848.com.cn/app/)
 
 # 题库
 + [简答题](http://www.jiandati.com/)
