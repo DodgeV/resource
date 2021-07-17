@@ -279,6 +279,7 @@
 + [声同小语种论坛 - 声同此声，心同此心！ - Powered by phpwind](http://www.somdom.com/)
 + [小语种学习网](http://xyz.tingroom.com/)
 + [Radio Code全世界电台大全](http://radio.opentutorial.info/)
++ [免费学习45种语言](https://www.lingohut.com/)
 
 # 美食
 + [美食天下](https://www.meishichina.com/)
