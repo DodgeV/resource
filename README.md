@@ -146,6 +146,7 @@
 + [地图选择器](http://datav.aliyun.com/tools/atlas/)
 + [全景故宫](https://pano.dpm.org.cn/gugong_app_pc/index.html)
 + [微景天下官网](http://www.vizen.cn/#/)
++ [AirPano环游世界360°航拍全景](https://www.airpano.org.cn/)
 + [全景航拍](http://www.airpano.com/)
 + [风向图](https://www.windy.com/?28.574,104.763,4)
 + [地图 | 卡巴斯基网络威胁实时地图](https://cybermap.kaspersky.com/cn)
