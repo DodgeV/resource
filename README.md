@@ -35,6 +35,7 @@
 + [FakeUpdate](https://fakeupdate.net/)
 + [十佳测评--排出最好的产品](https://www.10besty.com/)
 + [Versus | 万物皆可对比](https://versus.com/cn)
++ [Slant手机/电脑/..选购](https://www.slant.co/)
 ### mac应用市场
 + [精品Mac应用分享推荐 - Awesome Mac](http://wangchujiang.com/awesome-mac/index.zh.html)
 + [应用软件_麦氪派](https://www.waitsun.com/topics/os)
@@ -319,15 +320,27 @@
 
 # 有趣的网站
 + [知妖](https://www.cbaigui.com/)
-+ [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
-+ [START-腾讯云游戏](https://start.qq.com/)
-+ [小鸡大作战](https://hury.io/)
 + [全球摄像头](https://www.skylinewebcams.com/)
 + [CXK打篮球](https://cxk.ssrr.one/)
 + [模拟核弹的威力](https://nuclearsecrecy.com/nukemap/)
 + [地球的时间线](http://timelineofearth.com/)
 + [奥利奥](http://ljl.li/oreooo/)
 + [Waifu Labs-制作自己的二次元老婆](https://waifulabs.com/)
+
+# no games no life
++ [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
++ [GBT乐赏游戏空间](http://gbtgame.ys168.com/)
++ [单机游戏_单机游戏下载_中国单机游戏门户_游侠网](http://www.ali213.net/)
++ [START-腾讯云游戏](https://start.qq.com/)
++ [虎牙云游戏](https://yowa.huya.com/)
++ [biubiu加速器](https://www.biubiu001.com/)
++ [小鸡大作战](https://hury.io/)
++ [信任的进化-文字游戏](https://dccxi.com/trust/)
++ [Crazy Games - Free Online Games on CrazyGames.com](https://www.crazygames.com/)
++ [FC 游戏在线玩](http://lab.mkblog.cn/FCGames/#/)
++ [在线 DOS 游戏](https://dos.zczc.cz/)
++ [Deeeep.io - Eat fish, become the shark!](https://deeeep.io/)
++ [小霸王，其乐无穷 。红白机，FC在线游戏](https://www.yikm.net/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
