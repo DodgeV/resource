@@ -16,4 +16,21 @@
 
 ## 看书
 + 堪比厚墨：[源仓库&APP下载](http://yck.mumuceo.com/)&[开源代码](https://github.com/gedoor/legado)
-+ 好用的书院推荐：[XIU2](https://github.com/XIU2/Yuedu)
++ 好用的书源推荐：[XIU2](https://github.com/XIU2/Yuedu)
++ https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json
++ https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
++ 赤心巡天
++ 混沌天地决
++ 崛起原始时代
++ 我在名侦探世界打酱油
++ 道家祖师
++ 重生原始部落
++ 我是一个原始人
++ 回到旧石器时代
++ 成神从原始部落开始
++ 穿越原始成为巫
++ 柯南之我不是蛇精病
++ 神话版三国
++ 万古武帝
++ 万古神帝
++ 武炼巅峰
