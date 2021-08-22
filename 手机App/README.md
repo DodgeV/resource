@@ -13,6 +13,7 @@
 
 ## 我的听书
 + 必备音频资源下载站：[趣音网-提供海量有声小说打包下载及免费试听,有声书的天堂](http://qvyin.com/)
++ 有声小说、评书免费在线：[听书网](http://m.tingshubao.com/)
 
 ## 看书
 + 堪比厚墨：[源仓库&APP下载](http://yck.mumuceo.com/)&[开源代码](https://github.com/gedoor/legado)
