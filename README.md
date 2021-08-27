@@ -341,6 +341,7 @@
 + [在线 DOS 游戏](https://dos.zczc.cz/)
 + [Deeeep.io - Eat fish, become the shark!](https://deeeep.io/)
 + [小霸王，其乐无穷 。红白机，FC在线游戏](https://www.yikm.net/)
++ [多人联机末日大战](https://devast.io/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
