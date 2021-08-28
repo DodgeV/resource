@@ -339,10 +339,11 @@
 + [Crazy Games - Free Online Games on CrazyGames.com](https://www.crazygames.com/)
 + [FC 游戏在线玩](http://lab.mkblog.cn/FCGames/#/)
 + [在线 DOS 游戏](https://dos.zczc.cz/)
-+ [Deeeep.io - Eat fish, become the shark!](https://deeeep.io/)
 + [小霸王，其乐无穷 。红白机，FC在线游戏](https://www.yikm.net/)
-+ [多人联机在线末日大战](https://devast.io/)
-+ [饥荒多人联机在线](https://starve.io/)
++ [io游戏集合](https://iogames.space/)
+> [Deeeep.io - Eat fish, become the shark!](https://deeeep.io/)
+> [饥荒多人联机在线](https://starve.io/)
+> [多人联机在线末日大战](https://devast.io/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
