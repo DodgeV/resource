@@ -327,7 +327,7 @@
 + [奥利奥](http://ljl.li/oreooo/)
 + [Waifu Labs-制作自己的二次元老婆](https://waifulabs.com/)
 
-# no games no life
+# no game no life
 + [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
 + [GBT乐赏游戏空间](http://gbtgame.ys168.com/)
 + [单机游戏_单机游戏下载_中国单机游戏门户_游侠网](http://www.ali213.net/)
@@ -341,7 +341,8 @@
 + [在线 DOS 游戏](https://dos.zczc.cz/)
 + [Deeeep.io - Eat fish, become the shark!](https://deeeep.io/)
 + [小霸王，其乐无穷 。红白机，FC在线游戏](https://www.yikm.net/)
-+ [多人联机末日大战](https://devast.io/)
++ [多人联机在线末日大战](https://devast.io/)
++ [饥荒多人联机在线](https://starve.io/)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
