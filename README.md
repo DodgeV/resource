@@ -311,12 +311,14 @@
 + [沙雕App](https://shadiao.app/)
 + [祖安宝典](https://zuanbot.com/)
 + [彩虹屁宝典](https://chp.shadiao.app/?from_nmsl)
++ [舔狗日记](https://jlwz.cn/dog/)
 + [朋友圈生成文案](https://pyq.shadiao.app/)
 + [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
 + [小鸡词典](https://jikipedia.com/)
 + [一篇文字](https://www.dumogu.top/)
 + [好好说话--流行语搜索](https://lab.magiconch.com/nbnhhsh/)
 + [粉头君的搞笑日常](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3ODI4ODY4NA==&action=getalbum&album_id=1715485424623665158&scene=173&from_msgid=2247500375&from_itemidx=2&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=6302019a&lang=zh_CN&ascene=1&session_us=gh_56b34e2e0cd4&fontgear=2)
++ [文字游戏magickeyboard](http://magickeyboard.io/)
 
 # 有趣的网站
 + [知妖](https://www.cbaigui.com/)
@@ -326,6 +328,10 @@
 + [地球的时间线](http://timelineofearth.com/)
 + [奥利奥](http://ljl.li/oreooo/)
 + [Waifu Labs-制作自己的二次元老婆](https://waifulabs.com/)
++ [Online Pranks 😈😂 | Geek Prank is now Pranx](https://pranx.com/)
++ [bouncyballs捏碎球球](https://bouncyballs.org/)
++ [zty在线唱歌游戏](https://zty.pe/)
++ 
 
 # no game no life
 + [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
