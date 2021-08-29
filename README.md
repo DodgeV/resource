@@ -52,8 +52,7 @@
 + [USTC](http://mirrors.ustc.edu.cn/)
 + [Py For Win](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 + [MSDN](https://msdn.itellyou.cn/)
-
-# 工具箱
+## 工具箱
 + [MikuTools](https://tools.miku.ac/)
 + [PickFrom](https://zh.pickfrom.net/)
 + [精准云](https://jingzhunyun.com/)
@@ -73,8 +72,7 @@
 #### 翻过去
 + [翻](http://www.ddung.org/daili/)
 + [API](https://api.bbs8080.net/)
-
-# 在线思维导图
+### 在线思维导图
 + [PO在线思维图](https://www.processon.com/)
 + [百度思维脑图](https://naotu.baidu.com/)
 + [在线创建思维导图](https://www.mindmeister.com/zh)
@@ -83,8 +81,7 @@
 + [【GitMind官网】](https://gitmind.cn/)
 + [Excalidraw | 手绘流程图](https://excalidraw.com/)
 + [ZhiMap-在线思维导图](https://zhimap.com/)
-
-# 文档工具
+### 文档工具
 + [PDF转Word](https://app.xunjiepdf.com/)
 + [LightPDF](https://lightpdf.com/zh/)
 + [iLovePDF](https://www.ilovepdf.com/)
@@ -104,8 +101,7 @@
 + [文件编码检测](https://abctool.gitlab.io/encoding-detector/index.zh-cn.html?d400&_lang)
 + [Abc 文件编码检测工具](https://abctool.gitlab.io/encoding-detector/index.zh-cn.html)
 + [SeaTable - 新一代在线协同表格和信息管理系统](https://seatable.cn/)
-
-# 图片识别与编辑
+### 图片识别与编辑
 + [Device Shots加设备壳](https://deviceshots.com/)
 + [Open Peeps手绘插图](https://www.openpeeps.com/)
 + [P站风格logo](https://www.logoly.pro/#/)
@@ -136,12 +132,10 @@
 + [图片助手|ImageAssistant|图片批量下载器](http://www.pullywood.com/ImageAssistant/)
 + [免费logo在线制作-字体logo-logo设计-U钙网](http://www.uugai.com/)
 + [企帮手 - 免费LOGO设计在线生成](http://logo.xunjietupian.com/)
-
-# 图片网站
+### 图片网站
 + [Emoji Island](https://emojiisland.com/)
 + [表情包在线制作模板大全](https://www.52doutu.cn/maker/)
-
-# 地图图片
+### 地图图片
 + [中国 -地图](https://www.ageeye.cn/)
 + [地图选择器](http://datav.aliyun.com/tools/atlas/)
 + [全景故宫](https://pano.dpm.org.cn/gugong_app_pc/index.html)
@@ -152,8 +146,7 @@
 + [地图 | 卡巴斯基网络威胁实时地图](https://cybermap.kaspersky.com/cn)
 + [太阳系|Solar System](https://720yun.com/t/eb42ejpvu1a?scene_id=365147)
 + [阿波罗号登月计划所有资料](https://apolloinrealtime.org/17/)
-
-# 其他工具
+### 其他工具
 + [mrw短网址生成](http://mrw.so/)
 + [将网页打印成PDF](https://www.printfriendly.com/)
 + [免费字体下载,中文字体大全_字体家官网每周五付费下载和字体授权1折起](https://www.zitijia.com/)
@@ -162,8 +155,7 @@
 + [艺术字体转换器](http://www.akuziti.com/)
 + [网页转换助手](http://www.html22.com/doc/)
 + [预览万物](http://www.1218.io/)
-
-# 视频工具
+### 视频工具
 + [Online converter视频转换器](https://www.online-convert.com/)
 + [RecordScreen.io在线录屏](http://recordscreen.io/)
 + [动漫图片识别](https://trace.moe/)
@@ -172,11 +164,48 @@
 + [Free Online Video Maker](https://www.flexclip.com/)
 + [右糖 - 在线视频制作平台](https://lightmv.cn/)
 + [嗨呀去水印](http://more.haiya360.com/)
-
-# 音乐工具
+### 音乐工具
 + [Online MP3 Cutter - 剪辑歌曲，制作铃声](https://mp3cut.net/cn/)
 + [123apps – Free Web Apps](https://123apps.com/)
 + [LALAL.AI: 声乐分离](https://www.lalal.ai/)
+## IP追踪定位
++ 代理IP：https://www.xicidaili.com/
++ IPAddress.com：https://www.ipaddress.com/
++ MyIP：https://myip.tap2free.net/
++ IP地址查询：http://www.ip138.com/
++ Torrent跟踪IP：https://iknowwhatyoudownload.com/en/peer/
+## 云邮箱
++ http://24mail.chacuo.net/
++ https://www.linshiyouxiang.net/
++ https://10minutemail.net/
+## 国内短信
++ https://www.yinsiduanxin.com/
++ https://yunjiema.net/
++ http://www.z-sms.com/
++ http://www.materialtools.com/article/Instructions_for_testing_anti-reptiles_recently_global_v2?return_url=%2F%3Fpage%3D1
++ https://www.becmd.com/
++ https://yunduanxin.net/
++ https://www.materialtools.com/?page=1
++ http://www.114sim.com/
++ http://yunduanxin.net/
++ https://www.zusms.com/
++ http://www.shejiinn.com/
+### 国外
++ https://zh.mytrashmobile.com/
++ http://receive-sms-online.info/
++ http://receivefreesms.com/
++ https://www.receivesmsonline.net/
++ https://www.freeonlinephone.org/
++ https://sms-online.co/receive-free-sms
++ https://receiveasms.com/
++ https://receive-sms.com/
++ https://ch.freephonenum.com/
++ https://smsreceivefree.com/
+## 文件传输
++ [奶牛快传](https://cowtransfer.com/)
++ [文叔叔快传](https://www.wenshushu.cn/)
++ [Firefox Send](https://send.firefox.com/)
++ [皮皮直连-点对点](https://www.ppzhilian.com/)
 
 # 网站导航大全
 + 国外网站大全：http://www.world68.com/
@@ -225,6 +254,11 @@
 + [英语语法_英语语法网](http://www.yygrammar.com/Article/)
 + [在线词典|近义词词典|诗词典故|翻译词典_词林在线词典](https://www.cilin.org/)
 + [每日英语（En8848官方App）- 英语学习_原版英语学习网](https://www.en8848.com.cn/app/)
+## 小语种
++ [声同小语种论坛 - 声同此声，心同此心！ - Powered by phpwind](http://www.somdom.com/)
++ [小语种学习网](http://xyz.tingroom.com/)
++ [Radio Code全世界电台大全](http://radio.opentutorial.info/)
++ [免费学习45种语言](https://www.lingohut.com/)
 
 # 题库
 + [简答题](http://www.jiandati.com/)
@@ -234,54 +268,6 @@
 + [查题吧](http://question.fm210.cn/)
 + [考试酷(examcoo)](https://www.examcoo.com/)
 + [问答库](https://www.asklib.com/)
-
-# IP追踪定位
-+ 代理IP：https://www.xicidaili.com/
-+ IPAddress.com：https://www.ipaddress.com/
-+ MyIP：https://myip.tap2free.net/
-+ IP地址查询：http://www.ip138.com/
-+ Torrent跟踪IP：https://iknowwhatyoudownload.com/en/peer/
-
-# 云邮箱
-+ http://24mail.chacuo.net/
-+ https://www.linshiyouxiang.net/
-+ https://10minutemail.net/
-
-# 国内短信
-+ https://www.yinsiduanxin.com/
-+ https://yunjiema.net/
-+ http://www.z-sms.com/
-+ http://www.materialtools.com/article/Instructions_for_testing_anti-reptiles_recently_global_v2?return_url=%2F%3Fpage%3D1
-+ https://www.becmd.com/
-+ https://yunduanxin.net/
-+ https://www.materialtools.com/?page=1
-+ http://www.114sim.com/
-+ http://yunduanxin.net/
-+ https://www.zusms.com/
-+ http://www.shejiinn.com/
-### 国外
-+ https://zh.mytrashmobile.com/
-+ http://receive-sms-online.info/
-+ http://receivefreesms.com/
-+ https://www.receivesmsonline.net/
-+ https://www.freeonlinephone.org/
-+ https://sms-online.co/receive-free-sms
-+ https://receiveasms.com/
-+ https://receive-sms.com/
-+ https://ch.freephonenum.com/
-+ https://smsreceivefree.com/
-
-# 文件传输
-+ [奶牛快传](https://cowtransfer.com/)
-+ [文叔叔快传](https://www.wenshushu.cn/)
-+ [Firefox Send](https://send.firefox.com/)
-+ [皮皮直连-点对点](https://www.ppzhilian.com/)
-
-# 小语种
-+ [声同小语种论坛 - 声同此声，心同此心！ - Powered by phpwind](http://www.somdom.com/)
-+ [小语种学习网](http://xyz.tingroom.com/)
-+ [Radio Code全世界电台大全](http://radio.opentutorial.info/)
-+ [免费学习45种语言](https://www.lingohut.com/)
 
 # 美食
 + [美食天下](https://www.meishichina.com/)
@@ -328,12 +314,22 @@
 + [奥利奥](http://ljl.li/oreooo/)
 + [Waifu Labs-制作自己的二次元老婆](https://waifulabs.com/)
 + [Online Pranks 😈😂 | Geek Prank is now Pranx](https://pranx.com/)
-+ [bouncyballs捏碎球球](https://bouncyballs.org/)
-+ [zty在线唱歌游戏](https://zty.pe/)
-+ [键盘音效patatap.com/](https://patatap.com/)
-+ [键盘音效初音未来mikutap](https://aidn.jp/mikutap/)
 + [假更新FakeUpdate](https://fakeupdate.net/)
++ [冒牌黑客hackertyper](https://hackertyper.net/)
++ [冒牌黑客hackcode](http://hackcode.ishoulu.com/blackmesa/)
++ [下雨音效](https://www.rainymood.com/)
++ [这里有只猫](https://m.niucodata.com/cat/cat.php?from=wb)
++ [引力点](https://codepen.io/akm2/full/rHIsa)
++ [请画一个人](https://www.webhek.com/post/draw-a-stickman.html)
++ [autodraw](https://www.autodraw.com/)
++ [bouncyballs捏碎球球](https://bouncyballs.org/)
++ [鼠标转向](https://chrismckenzie.com/)
++ [zty在线唱歌游戏](https://zty.pe/)
++ [点击音效Finding Home](http://findingho.me/)
++ [键盘音效patatap.com](https://patatap.com/)
++ [键盘音效初音未来mikutap](https://aidn.jp/mikutap/)
 + [抽厕纸解压papertoilet](http://papertoilet.com/)
++ [60s冥想](https://www.pixelthoughts.co/#)
 
 # no game no life
 + [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
