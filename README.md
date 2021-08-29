@@ -35,6 +35,7 @@
 + [十佳测评--排出最好的产品](https://www.10besty.com/)
 + [Versus | 万物皆可对比](https://versus.com/cn)
 + [Slant手机/电脑/..选购](https://www.slant.co/)
++ [渐变色文件夹-告别黄色](https://una.im/gradient-folders/)
 ### mac应用市场
 + [精品Mac应用分享推荐 - Awesome Mac](http://wangchujiang.com/awesome-mac/index.zh.html)
 + [应用软件_麦氪派](https://www.waitsun.com/topics/os)
@@ -275,6 +276,7 @@
 
 # 化学
 + [化学模型](https://molview.org)
++ [小小化学实验室-炼金术](https://littlealchemy.com/)
 
 # 医学
 + [医学微视](https://www.mvyxws.com/)
@@ -304,8 +306,8 @@
 + [好好说话--流行语搜索](https://lab.magiconch.com/nbnhhsh/)
 + [粉头君的搞笑日常](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3ODI4ODY4NA==&action=getalbum&album_id=1715485424623665158&scene=173&from_msgid=2247500375&from_itemidx=2&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=6302019a&lang=zh_CN&ascene=1&session_us=gh_56b34e2e0cd4&fontgear=2)
 + [文字游戏magickeyboard](http://magickeyboard.io/)
-
-# 有趣的网站
++ [wolframalpha](https://www.wolframalpha.com/)
+## 有趣的网站
 + [知妖](https://www.cbaigui.com/)
 + [全球摄像头](https://www.skylinewebcams.com/)
 + [CXK打篮球](https://cxk.ssrr.one/)
@@ -324,14 +326,18 @@
 + [autodraw](https://www.autodraw.com/)
 + [bouncyballs捏碎球球](https://bouncyballs.org/)
 + [鼠标转向](https://chrismckenzie.com/)
++ [撕扯嘴唇发声](https://www.adultswim.com/etcetera/choir/)
 + [zty在线唱歌游戏](https://zty.pe/)
 + [点击音效Finding Home](http://findingho.me/)
 + [键盘音效patatap.com](https://patatap.com/)
 + [键盘音效初音未来mikutap](https://aidn.jp/mikutap/)
 + [抽厕纸解压papertoilet](http://papertoilet.com/)
 + [60s冥想](https://www.pixelthoughts.co/#)
-
-# no game no life
++ [花光比尔盖茨的钱](https://neal.fun/spend/)
++ [不存在的人](https://thispersondoesnotexist.com/)
++ [没用的网站](https://theuselessweb.com/)
++ [人品测试](https://www.16personalities.com/)
+## no game no life
 + [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
 + [GBT乐赏游戏空间](http://gbtgame.ys168.com/)
 + [单机游戏_单机游戏下载_中国单机游戏门户_游侠网](http://www.ali213.net/)
