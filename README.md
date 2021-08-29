@@ -32,7 +32,6 @@
 + [Mathpix Snip数学公式生成工具](https://mathpix.com/)
 
 # 技术宅的自白
-+ [FakeUpdate](https://fakeupdate.net/)
 + [十佳测评--排出最好的产品](https://www.10besty.com/)
 + [Versus | 万物皆可对比](https://versus.com/cn)
 + [Slant手机/电脑/..选购](https://www.slant.co/)
@@ -331,7 +330,10 @@
 + [Online Pranks 😈😂 | Geek Prank is now Pranx](https://pranx.com/)
 + [bouncyballs捏碎球球](https://bouncyballs.org/)
 + [zty在线唱歌游戏](https://zty.pe/)
-+ 
++ [键盘音效patatap.com/](https://patatap.com/)
++ [键盘音效初音未来mikutap](https://aidn.jp/mikutap/)
++ [假更新FakeUpdate](https://fakeupdate.net/)
++ [抽厕纸解压papertoilet](http://papertoilet.com/)
 
 # no game no life
 + [刺客信条系列下载_刺客信条全系列_刺客信条系列专题-游侠网](https://www.ali213.net/zhuanti/ac/)
