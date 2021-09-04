@@ -9,8 +9,6 @@
 + [学破解](https://www.xuepojie.com/)
 + [中国HUC](http://www.cnhonkerarmy.com/portal.php)
 + [资源统筹局](https://gkdworld.xyz/plugin.php?id=k_misign:sign)
-+ [MX](https://moxing445.vip/sign.php)
-+ [Car](https://avcarbvr834.vip/home.php?mod=spacecp&ac=usergroup)
 + [贝克街推理学院](http://www.tuilixy.net/)
 
 # 常用
@@ -320,6 +318,7 @@
 + [冒牌黑客hackertyper](https://hackertyper.net/)
 + [冒牌黑客hackcode](http://hackcode.ishoulu.com/blackmesa/)
 + [下雨音效](https://www.rainymood.com/)
++ [白噪声-下雨打雷人声](https://pluvior.com)
 + [这里有只猫](https://m.niucodata.com/cat/cat.php?from=wb)
 + [引力点](https://codepen.io/akm2/full/rHIsa)
 + [请画一个人](https://www.webhek.com/post/draw-a-stickman.html)
@@ -331,8 +330,10 @@
 + [点击音效Finding Home](http://findingho.me/)
 + [键盘音效patatap.com](https://patatap.com/)
 + [键盘音效初音未来mikutap](https://aidn.jp/mikutap/)
++ [鼠标点击音效deep-sea](https://neal.fun/deep-sea)
 + [抽厕纸解压papertoilet](http://papertoilet.com/)
 + [60s冥想](https://www.pixelthoughts.co/#)
++ [转圈圈](https://hextunel.netlify.app)
 + [花光比尔盖茨的钱](https://neal.fun/spend/)
 + [不存在的人](https://thispersondoesnotexist.com/)
 + [没用的网站](https://theuselessweb.com/)
@@ -357,6 +358,7 @@
 > [Deeeep.io - Eat fish, become the shark!](https://deeeep.io/)
 > [饥荒多人联机在线](https://starve.io/)
 > [多人联机在线末日大战](https://devast.io/)
+> [国外小游戏合集](https://www.pacogames.com)
 
 # 书籍
 + [读写人：书评杂志、书评博客、书评网站、读书资源聚合](http://www.duxieren.com/) 
