@@ -258,6 +258,7 @@
 + [小语种学习网](http://xyz.tingroom.com/)
 + [Radio Code全世界电台大全](http://radio.opentutorial.info/)
 + [免费学习45种语言](https://www.lingohut.com/)
++ [世界语言地图](https://www.zerotohero.ca/)
 
 # 题库
 + [简答题](http://www.jiandati.com/)
