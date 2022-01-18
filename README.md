@@ -1,16 +1,3 @@
-# 签到
-+ [IT之家](https://www.itspxx.com/)
-+ [小木虫](http://muchong.com/)
-+ [经管之家](https://bbs.pinggu.org/)
-+ [MT论坛](https://bbs.binmt.cc/forum.php)
-+ [数学中国论坛](http://www.madio.net/portal.php)
-+ [🐟C论坛](https://fishc.com.cn/)
-+ [吾爱破解](https://www.52pojie.cn/)
-+ [学破解](https://www.xuepojie.com/)
-+ [中国HUC](http://www.cnhonkerarmy.com/portal.php)
-+ [资源统筹局](https://gkdworld.xyz/plugin.php?id=k_misign:sign)
-+ [贝克街推理学院](http://www.tuilixy.net/)
-
 # 常用
 + [enlink](https://client.v.ujs.edu.cn/client/#/login)
 + [大创训练](http://cxcy.ujs.edu.cn/index.aspx)
@@ -618,3 +605,11 @@
 > + 链接：https://pan.baidu.com/s/1wCNWOG-xaLb1yAvsIdK5Og 密码：3ayb
 > + 链接：https://pan.baidu.com/s/1y0twe5sUBBCtFsJcDG18PQ 密码：lx0n
 > + 链接：https://pan.baidu.com/s/1tZdSrIIYH4bnZrMBOBqGHg 密码：0su2
+
+# 自用电脑软件
++ bitcomet
++ calibre
++ cajviewer
++ Ubuntu/CentOS
++ wireshark
++ xdown
