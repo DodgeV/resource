@@ -21,8 +21,7 @@
 + https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json
 + https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 + 赤心巡天-187浮图净土
-+ 混沌天地决
-+ 崛起原始时代-229
++ 混沌天地决-2259
 + 我在名侦探世界打酱油-186
 + 道家祖师-142
 + 重生原始部落
@@ -35,3 +34,4 @@
 + 万古武帝
 + 万古神帝
 + 雪中悍刀行-35半斤红妆
++ 灵舟-125
