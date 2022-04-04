@@ -42,3 +42,4 @@
 + 万古神帝
 + 雪中悍刀行-35半斤红妆
 + 灵舟-125
++ 【轻小说】不死者之王【2emi】：https://qingxs.lanzoux.com/b00np5uva
